@@ -1,0 +1,267 @@
+﻿$axure.loadCurrentPage({
+  "url":"排序.html",
+  "generationDate":new Date(1479704708820.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"df07442a41a248c4b7c89e19d67a925f",
+    "type":"Axure:Page",
+    "name":"排序",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c5109b52834a4cb788e2aa16ac1d6291",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":430,
+              "height":880}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"afc447f30f6e469597af9e99c4ca94ea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":430,
+                  "height":880}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/app/u1.jpg"}},
+{
+          "id":"635428bcd44f4913bb00ae34cc6627c3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":108},
+            "size":{
+              "width":375,
+              "height":668}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"536d84b139de4ca6b771bdb9ff2d051a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":108},
+                "size":{
+                  "width":375,
+                  "height":668}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/排序/u2.jpg"}},
+{
+          "id":"d155521541e345deb4498a036069261e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":292},
+            "size":{
+              "width":373,
+              "height":428}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 预约设计师",
+                      "target":{
+                        "targetType":"page",
+                        "url":"预约设计师.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"3c4d7460c92f4fb790f401a47b061911",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":233,
+              "y":727},
+            "size":{
+              "width":72,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"96bee5af47e64aff9b6a2028051bec6f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":233,
+                  "y":727},
+                "size":{
+                  "width":72,
+                  "height":48}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/擅长风格/u4.png"}},
+{
+          "id":"48cdb097960249169a4224c16e86d160",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":727},
+            "size":{
+              "width":73,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 首页-方案",
+                      "target":{
+                        "targetType":"page",
+                        "url":"首页-方案.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"b1a06554659944e092420f0dc575e0e5",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":233,
+              "y":727},
+            "size":{
+              "width":67,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 新家--案例",
+                      "target":{
+                        "targetType":"page",
+                        "url":"新家--案例.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"7d8bf3c35e744471a4762eaa27f9da17",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":325,
+              "y":726},
+            "size":{
+              "width":77,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c5109b52834a4cb788e2aa16ac1d6291":{
+      "scriptId":"u0"},
+    "afc447f30f6e469597af9e99c4ca94ea":{
+      "scriptId":"u1"},
+    "635428bcd44f4913bb00ae34cc6627c3":{
+      "scriptId":"u2"},
+    "536d84b139de4ca6b771bdb9ff2d051a":{
+      "scriptId":"u3"},
+    "d155521541e345deb4498a036069261e":{
+      "scriptId":"u4"},
+    "3c4d7460c92f4fb790f401a47b061911":{
+      "scriptId":"u5"},
+    "96bee5af47e64aff9b6a2028051bec6f":{
+      "scriptId":"u6"},
+    "48cdb097960249169a4224c16e86d160":{
+      "scriptId":"u7"},
+    "b1a06554659944e092420f0dc575e0e5":{
+      "scriptId":"u8"},
+    "7d8bf3c35e744471a4762eaa27f9da17":{
+      "scriptId":"u9"}}});

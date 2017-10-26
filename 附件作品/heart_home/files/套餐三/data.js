@@ -1,0 +1,102 @@
+﻿$axure.loadCurrentPage({
+  "url":"套餐三.html",
+  "generationDate":new Date(1479704709437.91),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"544841992cf74a0ba80f11762d46a647",
+    "type":"Axure:Page",
+    "name":"套餐三",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"665ed3e1bccd44e5837318141e67b6dd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":430,
+              "height":880}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8898d5f4a39e479babf8893cd78788cb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":430,
+                  "height":880}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/app/u1.jpg"}},
+{
+          "id":"f9156e5b582a456498815759e658b9fb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":108},
+            "size":{
+              "width":375,
+              "height":668}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fffb04004d8f45b49bea3458bf9c51be",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":108},
+                "size":{
+                  "width":375,
+                  "height":668}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/套餐三/u2.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "665ed3e1bccd44e5837318141e67b6dd":{
+      "scriptId":"u0"},
+    "8898d5f4a39e479babf8893cd78788cb":{
+      "scriptId":"u1"},
+    "f9156e5b582a456498815759e658b9fb":{
+      "scriptId":"u2"},
+    "fffb04004d8f45b49bea3458bf9c51be":{
+      "scriptId":"u3"}}});

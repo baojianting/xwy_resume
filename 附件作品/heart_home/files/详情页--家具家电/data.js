@@ -1,0 +1,4740 @@
+﻿$axure.loadCurrentPage({
+  "url":"详情页--家具家电.html",
+  "generationDate":new Date(1479704709868.94),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"10f9487405204a0e89cae230da502114",
+    "type":"Axure:Page",
+    "name":"详情页--家具家电",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"575dc8a36b2247cf8e63f6fe408446a7",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"a086e7cb87c144058818b9a3550c238f"},
+{
+          "id":"e37f7adffd80472e8a0d3bf67cdb03f0",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":107},
+            "size":{
+              "width":375,
+              "height":667}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onDrag":{
+              "description":"OnDrag",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"移动 (动态面板) 拖动",
+                      "objectsToMoves":[{
+                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                          "moveInfo":{
+                            "moveType":"drag",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "options":{
+}}}]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"be8b631f505148628341397f2e4c9637",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"bdee16f8c5354ae09752c2316127416d",
+                  "label":"",
+                  "parentDynamicPanel":"e37f7adffd80472e8a0d3bf67cdb03f0",
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":10,
+                      "height":10}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onDrag":{
+                      "description":"OnDrag",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 家居家电长图 y 轴拖动,<br>家居家电 y 轴拖动,<br>隐蔽工程热区 y 轴拖动,<br>基础花费热区 y 轴拖动,<br>面积花费热区 y 轴拖动",
+                              "objectsToMoves":[{
+                                  "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]},
+                    "onDragDrop":{
+                      "description":"OnDragDrop",
+                      "cases":[{
+                          "description":"用例 1<br> (If area of 家居家电长图 未接触 area of 详情页面顶部)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["6d60cd12ec734c69a1ff878c60dc1e59"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["f0a1e0021dd64dff94167e5f5b67e9ae"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 家居家电长图 到 (0,72)",
+                              "objectsToMoves":[{
+                                  "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"72",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]},
+{
+                          "description":"用例 2<br> (Else If area of 家居家电长图 未接触 area of 底部范围)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["6d60cd12ec734c69a1ff878c60dc1e59"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["5f866c5ec2984033aa89aeac21eaaa95"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 家居家电长图 到 (0,-100)",
+                              "objectsToMoves":[{
+                                  "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-100",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]}},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"86a99e5d04d64925b92621e39a3876d1",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"6d60cd12ec734c69a1ff878c60dc1e59",
+                          "label":"家居家电长图",
+                          "parentDynamicPanel":"bdee16f8c5354ae09752c2316127416d",
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":75},
+                            "size":{
+                              "width":376,
+                              "height":785}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"fad32bafd4f5428b8f15a866e8930f49",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"bdee16f8c5354ae09752c2316127416d",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "location":{
+                                  "x":0,
+                                  "y":75},
+                                "size":{
+                                  "width":376,
+                                  "height":785}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/详情页--家具家电/家居家电长图_u5.jpg"}},
+{
+                          "id":"4b0c816742b2498cb72c280a5febb5fd",
+                          "label":"家居家电",
+                          "parentDynamicPanel":"bdee16f8c5354ae09752c2316127416d",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":563},
+                            "size":{
+                              "width":93,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 面层花费,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 家居家电长图,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"6ca8be608d2a4541840d617b0335f2f4",
+                          "label":"隐蔽工程热区",
+                          "parentDynamicPanel":"bdee16f8c5354ae09752c2316127416d",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":280,
+                              "y":563},
+                            "size":{
+                              "width":95,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>基层花费,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 隐蔽工程,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"543424a5bbe54aa3839ab0763fca7af6",
+                          "label":"基础花费热区",
+                          "parentDynamicPanel":"bdee16f8c5354ae09752c2316127416d",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":187,
+                              "y":563},
+                            "size":{
+                              "width":93,
+                              "height":47}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>隐蔽工程热区,<br>家居家电,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 基层花费,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"96582c38a4344cce971ddcb419e1ad15",
+                          "label":"面积花费热区",
+                          "parentDynamicPanel":"bdee16f8c5354ae09752c2316127416d",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":93,
+                              "y":563},
+                            "size":{
+                              "width":94,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 面层花费,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true}]}]}]}]},
+{
+          "id":"c1e3bc4e1dd841b88a5b1c0ff040e0f8",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":182},
+            "size":{
+              "width":375,
+              "height":592}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"b4ac8d636eff48fc8436ba52baf184e2",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"f3d18f4f7d844dc58ee9f7021a3de94a",
+                  "label":"",
+                  "parentDynamicPanel":"c1e3bc4e1dd841b88a5b1c0ff040e0f8",
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":10,
+                      "height":10}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onDrag":{
+                      "description":"OnDrag",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 面层花费 y 轴拖动,<br>家居家电 y 轴拖动,<br>隐蔽工程热区 y 轴拖动,<br>基础花费热区 y 轴拖动,<br>面积花费热区 y 轴拖动",
+                              "objectsToMoves":[{
+                                  "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]},
+                    "onDragDrop":{
+                      "description":"OnDragDrop",
+                      "cases":[{
+                          "description":"用例 1<br> (If area of 面层花费 未接触 area of 详情页面顶部)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["85f5801691fd45239da3ed221dc36701"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["f0a1e0021dd64dff94167e5f5b67e9ae"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 面层花费 到 (0,0)",
+                              "objectsToMoves":[{
+                                  "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]},
+{
+                          "description":"用例 2<br> (Else If area of 面层花费 未接触 area of 底部范围)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["85f5801691fd45239da3ed221dc36701"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["5f866c5ec2984033aa89aeac21eaaa95"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 面层花费 到 (0,-75)",
+                              "objectsToMoves":[{
+                                  "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-75",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]}},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"c6d85493803d4d88bde7460a065b7a41",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"85f5801691fd45239da3ed221dc36701",
+                          "label":"面层花费",
+                          "parentDynamicPanel":"f3d18f4f7d844dc58ee9f7021a3de94a",
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "size":{
+                              "width":376,
+                              "height":880}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"cfa28de1a4c749f5bdc68c25a59ad333",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"f3d18f4f7d844dc58ee9f7021a3de94a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "size":{
+                                  "width":376,
+                                  "height":880}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/详情页--家具家电/面层花费_u13.jpg"}},
+{
+                          "id":"61a5e8cc7dbc49adba9c916a13e2d3ae",
+                          "label":"家居家电",
+                          "parentDynamicPanel":"f3d18f4f7d844dc58ee9f7021a3de94a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":490},
+                            "size":{
+                              "width":93,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 面层花费,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 家居家电长图,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"31849343a50d452ba3ecbf235bf1ac74",
+                          "label":"隐蔽工程热区",
+                          "parentDynamicPanel":"f3d18f4f7d844dc58ee9f7021a3de94a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":280,
+                              "y":490},
+                            "size":{
+                              "width":95,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>基层花费,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 隐蔽工程,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"4629a501b28c4616b5ac8c3f3bdbdd70",
+                          "label":"基础花费热区",
+                          "parentDynamicPanel":"f3d18f4f7d844dc58ee9f7021a3de94a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":187,
+                              "y":490},
+                            "size":{
+                              "width":93,
+                              "height":47}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 基层花费,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"16794d55bba04232b20c8d7e1be27158",
+                          "label":"面积花费热区",
+                          "parentDynamicPanel":"f3d18f4f7d844dc58ee9f7021a3de94a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":93,
+                              "y":490},
+                            "size":{
+                              "width":94,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 面层花费,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true}]}]}]}]},
+{
+          "id":"f1ef90803feb4aa0ae25c23a743d7c49",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":178},
+            "size":{
+              "width":375,
+              "height":596}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"538ec25b32dc47ab9f26a6abb5d0b207",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"e99ca583df6c45a4b45d150d95b5fff2",
+                  "label":"",
+                  "parentDynamicPanel":"f1ef90803feb4aa0ae25c23a743d7c49",
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":10,
+                      "height":10}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onDrag":{
+                      "description":"OnDrag",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 基层花费 y 轴拖动,<br>家居家电 y 轴拖动,<br>隐蔽工程热区 y 轴拖动,<br>基础花费热区 y 轴拖动,<br>面积花费热区 y 轴拖动",
+                              "objectsToMoves":[{
+                                  "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]},
+                    "onDragDrop":{
+                      "description":"OnDragDrop",
+                      "cases":[{
+                          "description":"用例 1<br> (If area of 基层花费 未接触 area of 详情页面顶部)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["2c5ff1de140d49e696e502514fe72efd"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["f0a1e0021dd64dff94167e5f5b67e9ae"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 基层花费 到 (0,0)",
+                              "objectsToMoves":[{
+                                  "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]},
+{
+                          "description":"用例 2<br> (Else If area of 基层花费 未接触 area of 底部范围)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["2c5ff1de140d49e696e502514fe72efd"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["5f866c5ec2984033aa89aeac21eaaa95"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 基层花费 到 (0,-55)",
+                              "objectsToMoves":[{
+                                  "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-55",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]}},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"43eb0fd9df8b473b91ec23d737df5d8b",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"2c5ff1de140d49e696e502514fe72efd",
+                          "label":"基层花费",
+                          "parentDynamicPanel":"e99ca583df6c45a4b45d150d95b5fff2",
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "size":{
+                              "width":375,
+                              "height":647}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1a4c3108185d4d7ca9383458606adbe8",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"e99ca583df6c45a4b45d150d95b5fff2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "size":{
+                                  "width":375,
+                                  "height":647}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/详情页--家具家电/基层花费_u21.jpg"}},
+{
+                          "id":"9cb37c51ecc0413d8b4b4d050256ed6b",
+                          "label":"家居家电",
+                          "parentDynamicPanel":"e99ca583df6c45a4b45d150d95b5fff2",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":490},
+                            "size":{
+                              "width":93,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 面层花费,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 家居家电长图,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"0c8f5fc4f52f4b9d86d61d09af711aba",
+                          "label":"隐蔽工程热区",
+                          "parentDynamicPanel":"e99ca583df6c45a4b45d150d95b5fff2",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":280,
+                              "y":490},
+                            "size":{
+                              "width":95,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>基层花费,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 隐蔽工程,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"2b1b105c00ef40e698f46d7d0238957e",
+                          "label":"基础花费热区",
+                          "parentDynamicPanel":"e99ca583df6c45a4b45d150d95b5fff2",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":187,
+                              "y":490},
+                            "size":{
+                              "width":93,
+                              "height":47}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 基层花费,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"096a225033374193a8cc4c4db34813b3",
+                          "label":"面积花费热区",
+                          "parentDynamicPanel":"e99ca583df6c45a4b45d150d95b5fff2",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":93,
+                              "y":490},
+                            "size":{
+                              "width":94,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 面层花费,<br>(动态面板),<br>(动态面板)",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true}]}]}]}]},
+{
+          "id":"00ecbda00a4d435d8122b927db138bed",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":178},
+            "size":{
+              "width":375,
+              "height":596}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"20877bc19ea64994b42cc168656ffab4",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"7bf8ccd0551248f4bd3e11cd2164373a",
+                  "label":"",
+                  "parentDynamicPanel":"00ecbda00a4d435d8122b927db138bed",
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":10,
+                      "height":10}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onDrag":{
+                      "description":"OnDrag",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 隐蔽工程 y 轴拖动,<br>家居家电 y 轴拖动,<br>隐蔽工程热区 y 轴拖动,<br>基础花费热区 y 轴拖动,<br>面积花费热区 y 轴拖动",
+                              "objectsToMoves":[{
+                                  "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}},
+{
+                                  "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]},
+                    "onDragDrop":{
+                      "description":"OnDragDrop",
+                      "cases":[{
+                          "description":"用例 1<br> (If area of 隐蔽工程 未接触 area of 详情页面顶部)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["8fcd56d1d8f044469d40427d58fb8839"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["f0a1e0021dd64dff94167e5f5b67e9ae"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 隐蔽工程 到 (0,0)",
+                              "objectsToMoves":[{
+                                  "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]},
+{
+                          "description":"用例 2<br> (Else If area of 隐蔽工程 未接触 area of 底部范围)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["8fcd56d1d8f044469d40427d58fb8839"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["5f866c5ec2984033aa89aeac21eaaa95"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 隐蔽工程 到 (0,-275)",
+                              "objectsToMoves":[{
+                                  "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-275",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]}},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"a8deb223137946bdb45007bdba226d9d",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"8fcd56d1d8f044469d40427d58fb8839",
+                          "label":"隐蔽工程",
+                          "parentDynamicPanel":"7bf8ccd0551248f4bd3e11cd2164373a",
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "size":{
+                              "width":375,
+                              "height":879}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"ef00da2eafc2413ca3c7515b4cc36ea9",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"7bf8ccd0551248f4bd3e11cd2164373a",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "size":{
+                                  "width":375,
+                                  "height":879}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/详情页--家具家电/隐蔽工程_u29.jpg"}},
+{
+                          "id":"c5bfd42b3b944a7b90ffd3839e2a4322",
+                          "label":"家居家电",
+                          "parentDynamicPanel":"7bf8ccd0551248f4bd3e11cd2164373a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":488},
+                            "size":{
+                              "width":93,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 面层花费,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 家居家电长图,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"ce66b689f4cc4675bcd55c35e631bd71",
+                          "label":"隐蔽工程热区",
+                          "parentDynamicPanel":"7bf8ccd0551248f4bd3e11cd2164373a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":280,
+                              "y":488},
+                            "size":{
+                              "width":95,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>基层花费,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 隐蔽工程,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"ff219b0da5a543579cb09899e48cdc10",
+                          "label":"基础花费热区",
+                          "parentDynamicPanel":"7bf8ccd0551248f4bd3e11cd2164373a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":187,
+                              "y":488},
+                            "size":{
+                              "width":93,
+                              "height":47}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>面层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 基层花费,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true},
+{
+                          "id":"6753cf7b22c842d5858b8e62bedd10f0",
+                          "label":"面积花费热区",
+                          "parentDynamicPanel":"7bf8ccd0551248f4bd3e11cd2164373a",
+                          "type":"imageMapRegion",
+                          "styleType":"imageMapRegion",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":93,
+                              "y":488},
+                            "size":{
+                              "width":94,
+                              "height":46}},
+                          "adaptiveStyles":{
+},
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"fadeWidget",
+                                      "description":"隐藏 家居家电长图,<br>基层花费,<br>隐蔽工程,<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区,<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["6d60cd12ec734c69a1ff878c60dc1e59"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2c5ff1de140d49e696e502514fe72efd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["8fcd56d1d8f044469d40427d58fb8839"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["7bf8ccd0551248f4bd3e11cd2164373a"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["00ecbda00a4d435d8122b927db138bed"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e99ca583df6c45a4b45d150d95b5fff2"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f1ef90803feb4aa0ae25c23a743d7c49"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["bdee16f8c5354ae09752c2316127416d"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["e37f7adffd80472e8a0d3bf67cdb03f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4b0c816742b2498cb72c280a5febb5fd"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6ca8be608d2a4541840d617b0335f2f4"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["543424a5bbe54aa3839ab0763fca7af6"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["96582c38a4344cce971ddcb419e1ad15"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["9cb37c51ecc0413d8b4b4d050256ed6b"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["0c8f5fc4f52f4b9d86d61d09af711aba"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["2b1b105c00ef40e698f46d7d0238957e"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["096a225033374193a8cc4c4db34813b3"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c5bfd42b3b944a7b90ffd3839e2a4322"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ce66b689f4cc4675bcd55c35e631bd71"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["ff219b0da5a543579cb09899e48cdc10"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["6753cf7b22c842d5858b8e62bedd10f0"],
+                                          "fadeInfo":{
+                                            "fadeType":"hide",
+                                            "options":{
+                                              "showType":"none"}}}]},
+{
+                                      "action":"fadeWidget",
+                                      "description":"显示 面层花费,<br>(动态面板),<br>(动态面板),<br>家居家电,<br>隐蔽工程热区,<br>基础花费热区,<br>面积花费热区",
+                                      "objectsToFades":[{
+                                          "objectPath":["85f5801691fd45239da3ed221dc36701"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["f3d18f4f7d844dc58ee9f7021a3de94a"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["c1e3bc4e1dd841b88a5b1c0ff040e0f8"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["61a5e8cc7dbc49adba9c916a13e2d3ae"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["31849343a50d452ba3ecbf235bf1ac74"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["4629a501b28c4616b5ac8c3f3bdbdd70"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}},
+{
+                                          "objectPath":["16794d55bba04232b20c8d7e1be27158"],
+                                          "fadeInfo":{
+                                            "fadeType":"show",
+                                            "options":{
+                                              "showType":"none"}}}]}]}]}},
+                          "tabbable":true}]}]}]}]},
+{
+          "id":"0183fd58a4ac49048dd892f103055918",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":29,
+              "y":107},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"1bd085ca677b4de1af33fce4c907d5ba",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"e0e3d0319ac5484696f02c1bdb8edd53",
+                  "label":"阴影",
+                  "parentDynamicPanel":"0183fd58a4ac49048dd892f103055918",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":false,
+                  "style":{
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x7F666666},
+                    "size":{
+                      "width":375,
+                      "height":667},
+                    "visible":false},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0ccd1760930d4d0aa2b34345c4223b0e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"0183fd58a4ac49048dd892f103055918",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":false,
+                      "style":{
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x7F666666},
+                        "size":{
+                          "width":375,
+                          "height":667},
+                        "visible":false},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 (动态面板),<br>第三方,<br>(Hot Spot),<br>阴影",
+                              "objectsToFades":[{
+                                  "objectPath":["6e9cff095fa1465d9609e178094ed0a7"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["1bb4e7c3261249168ac25540430c54c6"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["59e4bd7e52ef4f0f967eef9308141504"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["e0e3d0319ac5484696f02c1bdb8edd53"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/新家--案例/阴影_u22.png"}}]}]},
+{
+          "id":"6e9cff095fa1465d9609e178094ed0a7",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":28,
+              "y":654},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"2c38acb314fb48908c64bb5f78c7d1ed",
+              "label":"状态1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1bb4e7c3261249168ac25540430c54c6",
+                  "label":"第三方",
+                  "parentDynamicPanel":"6e9cff095fa1465d9609e178094ed0a7",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":375,
+                      "height":120}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c4c26bb9c63b44df812bddb0c5457302",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"6e9cff095fa1465d9609e178094ed0a7",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":375,
+                          "height":120}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/详情页/第三方图标_u21.png"}},
+{
+                  "id":"59e4bd7e52ef4f0f967eef9308141504",
+                  "label":"",
+                  "parentDynamicPanel":"6e9cff095fa1465d9609e178094ed0a7",
+                  "type":"imageMapRegion",
+                  "styleType":"imageMapRegion",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":20,
+                      "y":10},
+                    "size":{
+                      "width":120,
+                      "height":100}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 分享成功",
+                              "objectsToFades":[{
+                                  "objectPath":["e32155514126449794867d34a699838c"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"wait",
+                              "description":"等待2000毫秒",
+                              "waitTime":2000},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 (动态面板),<br>分享成功,<br>阴影",
+                              "objectsToFades":[{
+                                  "objectPath":["6e9cff095fa1465d9609e178094ed0a7"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["e32155514126449794867d34a699838c"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}},
+{
+                                  "objectPath":["e0e3d0319ac5484696f02c1bdb8edd53"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true}]}]},
+{
+          "id":"f0a1e0021dd64dff94167e5f5b67e9ae",
+          "label":"详情页面顶部",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":107},
+            "size":{
+              "width":375,
+              "height":73}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"88ad2f257f2b44309ef87fac9fb29950",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":28,
+                  "y":107},
+                "size":{
+                  "width":375,
+                  "height":73}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/详情页--家具家电/详情页面顶部_u42.png"}},
+{
+          "id":"e32155514126449794867d34a699838c",
+          "label":"分享成功",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":116,
+              "y":510},
+            "size":{
+              "width":200,
+              "height":100},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b86fdd21891b41f9b9a72ea8e9cf8390",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "location":{
+                  "x":116,
+                  "y":510},
+                "size":{
+                  "width":200,
+                  "height":100},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分享/u6.png"}},
+{
+          "id":"ea9066170c3246869bc0ac28c05c8ce5",
+          "label":"返回热区",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":38,
+              "y":136},
+            "size":{
+              "width":25,
+              "height":27}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 新家--案例",
+                      "target":{
+                        "targetType":"page",
+                        "url":"新家--案例.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"8474c19187e24aff8c0bf4dc597f1811",
+          "label":"分享热区",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":362,
+              "y":136},
+            "size":{
+              "width":32,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 (动态面板),<br>阴影,<br>第三方,<br>(Hot Spot)",
+                      "objectsToFades":[{
+                          "objectPath":["6e9cff095fa1465d9609e178094ed0a7"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["e0e3d0319ac5484696f02c1bdb8edd53"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["1bb4e7c3261249168ac25540430c54c6"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["59e4bd7e52ef4f0f967eef9308141504"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"2fa2e1bc76ed4e7b920865e648072530",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":365,
+              "y":458},
+            "size":{
+              "width":25,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 收藏",
+                      "objectsToFades":[{
+                          "objectPath":["59077fc8624541a19e8aae721fc90828"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"59077fc8624541a19e8aae721fc90828",
+          "label":"收藏",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":365,
+              "y":458},
+            "size":{
+              "width":24,
+              "height":24},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"761bd89bec6c4e53b3e755e85367bfc7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "location":{
+                  "x":365,
+                  "y":458},
+                "size":{
+                  "width":24,
+                  "height":24},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 收藏",
+                      "objectsToFades":[{
+                          "objectPath":["59077fc8624541a19e8aae721fc90828"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/新家--案例/收藏_u19.png"}},
+{
+          "id":"5f866c5ec2984033aa89aeac21eaaa95",
+          "label":"底部范围",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":774},
+            "size":{
+              "width":375,
+              "height":16}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+    "a086e7cb87c144058818b9a3550c238f":{
+      "packageId":"a086e7cb87c144058818b9a3550c238f",
+      "type":"Axure:Master",
+      "name":"新母版 1",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"623c214f22b644b990c3bc1c0a100f4d",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":430,
+                "height":880}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"7feffeea2daa4300973110505dfb8fb0",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":430,
+                    "height":880}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/app/u1.jpg"}}]}}},
+  "objectPaths":{
+    "575dc8a36b2247cf8e63f6fe408446a7":{
+      "scriptId":"u0",
+      "623c214f22b644b990c3bc1c0a100f4d":{
+        "scriptId":"u1"},
+      "7feffeea2daa4300973110505dfb8fb0":{
+        "scriptId":"u2"}},
+    "e37f7adffd80472e8a0d3bf67cdb03f0":{
+      "scriptId":"u3"},
+    "bdee16f8c5354ae09752c2316127416d":{
+      "scriptId":"u4"},
+    "6d60cd12ec734c69a1ff878c60dc1e59":{
+      "scriptId":"u5"},
+    "fad32bafd4f5428b8f15a866e8930f49":{
+      "scriptId":"u6"},
+    "4b0c816742b2498cb72c280a5febb5fd":{
+      "scriptId":"u7"},
+    "6ca8be608d2a4541840d617b0335f2f4":{
+      "scriptId":"u8"},
+    "543424a5bbe54aa3839ab0763fca7af6":{
+      "scriptId":"u9"},
+    "96582c38a4344cce971ddcb419e1ad15":{
+      "scriptId":"u10"},
+    "c1e3bc4e1dd841b88a5b1c0ff040e0f8":{
+      "scriptId":"u11"},
+    "f3d18f4f7d844dc58ee9f7021a3de94a":{
+      "scriptId":"u12"},
+    "85f5801691fd45239da3ed221dc36701":{
+      "scriptId":"u13"},
+    "cfa28de1a4c749f5bdc68c25a59ad333":{
+      "scriptId":"u14"},
+    "61a5e8cc7dbc49adba9c916a13e2d3ae":{
+      "scriptId":"u15"},
+    "31849343a50d452ba3ecbf235bf1ac74":{
+      "scriptId":"u16"},
+    "4629a501b28c4616b5ac8c3f3bdbdd70":{
+      "scriptId":"u17"},
+    "16794d55bba04232b20c8d7e1be27158":{
+      "scriptId":"u18"},
+    "f1ef90803feb4aa0ae25c23a743d7c49":{
+      "scriptId":"u19"},
+    "e99ca583df6c45a4b45d150d95b5fff2":{
+      "scriptId":"u20"},
+    "2c5ff1de140d49e696e502514fe72efd":{
+      "scriptId":"u21"},
+    "1a4c3108185d4d7ca9383458606adbe8":{
+      "scriptId":"u22"},
+    "9cb37c51ecc0413d8b4b4d050256ed6b":{
+      "scriptId":"u23"},
+    "0c8f5fc4f52f4b9d86d61d09af711aba":{
+      "scriptId":"u24"},
+    "2b1b105c00ef40e698f46d7d0238957e":{
+      "scriptId":"u25"},
+    "096a225033374193a8cc4c4db34813b3":{
+      "scriptId":"u26"},
+    "00ecbda00a4d435d8122b927db138bed":{
+      "scriptId":"u27"},
+    "7bf8ccd0551248f4bd3e11cd2164373a":{
+      "scriptId":"u28"},
+    "8fcd56d1d8f044469d40427d58fb8839":{
+      "scriptId":"u29"},
+    "ef00da2eafc2413ca3c7515b4cc36ea9":{
+      "scriptId":"u30"},
+    "c5bfd42b3b944a7b90ffd3839e2a4322":{
+      "scriptId":"u31"},
+    "ce66b689f4cc4675bcd55c35e631bd71":{
+      "scriptId":"u32"},
+    "ff219b0da5a543579cb09899e48cdc10":{
+      "scriptId":"u33"},
+    "6753cf7b22c842d5858b8e62bedd10f0":{
+      "scriptId":"u34"},
+    "0183fd58a4ac49048dd892f103055918":{
+      "scriptId":"u35"},
+    "e0e3d0319ac5484696f02c1bdb8edd53":{
+      "scriptId":"u36"},
+    "0ccd1760930d4d0aa2b34345c4223b0e":{
+      "scriptId":"u37"},
+    "6e9cff095fa1465d9609e178094ed0a7":{
+      "scriptId":"u38"},
+    "1bb4e7c3261249168ac25540430c54c6":{
+      "scriptId":"u39"},
+    "c4c26bb9c63b44df812bddb0c5457302":{
+      "scriptId":"u40"},
+    "59e4bd7e52ef4f0f967eef9308141504":{
+      "scriptId":"u41"},
+    "f0a1e0021dd64dff94167e5f5b67e9ae":{
+      "scriptId":"u42"},
+    "88ad2f257f2b44309ef87fac9fb29950":{
+      "scriptId":"u43"},
+    "e32155514126449794867d34a699838c":{
+      "scriptId":"u44"},
+    "b86fdd21891b41f9b9a72ea8e9cf8390":{
+      "scriptId":"u45"},
+    "ea9066170c3246869bc0ac28c05c8ce5":{
+      "scriptId":"u46"},
+    "8474c19187e24aff8c0bf4dc597f1811":{
+      "scriptId":"u47"},
+    "2fa2e1bc76ed4e7b920865e648072530":{
+      "scriptId":"u48"},
+    "59077fc8624541a19e8aae721fc90828":{
+      "scriptId":"u49"},
+    "761bd89bec6c4e53b3e755e85367bfc7":{
+      "scriptId":"u50"},
+    "5f866c5ec2984033aa89aeac21eaaa95":{
+      "scriptId":"u51"}}});

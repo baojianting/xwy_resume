@@ -1,0 +1,165 @@
+﻿$axure.loadCurrentPage({
+  "url":"基础设计套餐.html",
+  "generationDate":new Date(1479704709148.89),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ea4a7625e9694c5bb40bd15b97892cf5",
+    "type":"Axure:Page",
+    "name":"基础设计套餐",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f6bf9976a0f84796a32847f10814d309",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":430,
+              "height":880}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"26784267f6f643568a175b53c94bae3b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":430,
+                  "height":880}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/app/u1.jpg"}},
+{
+          "id":"41a6d18c7e164dfc9101035b9cb98f8b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":108},
+            "size":{
+              "width":375,
+              "height":668}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4d3808e2ec8d4cf88158753d33262e16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":108},
+                "size":{
+                  "width":375,
+                  "height":668}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/基础设计套餐/u2.jpg"}},
+{
+          "id":"c3e3263efcd5445fa9871bcb867799a3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":130},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 链接",
+                      "target":{
+                        "targetType":"page",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"191c9b9b4e6241a1a188dcf160ae0dee",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":220,
+              "y":730},
+            "size":{
+              "width":170,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 立即预约-上门量房",
+                      "target":{
+                        "targetType":"page",
+                        "url":"立即预约-上门量房.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f6bf9976a0f84796a32847f10814d309":{
+      "scriptId":"u0"},
+    "26784267f6f643568a175b53c94bae3b":{
+      "scriptId":"u1"},
+    "41a6d18c7e164dfc9101035b9cb98f8b":{
+      "scriptId":"u2"},
+    "4d3808e2ec8d4cf88158753d33262e16":{
+      "scriptId":"u3"},
+    "c3e3263efcd5445fa9871bcb867799a3":{
+      "scriptId":"u4"},
+    "191c9b9b4e6241a1a188dcf160ae0dee":{
+      "scriptId":"u5"}}});

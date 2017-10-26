@@ -1,0 +1,166 @@
+﻿$axure.loadCurrentPage({
+  "url":"套餐二.html",
+  "generationDate":new Date(1479704709378.91),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"57adbd68e4c34644a926159775754c84",
+    "type":"Axure:Page",
+    "name":"套餐二",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d717343cf96c4ebabac69e8e8ba7564e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":430,
+              "height":880}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f3c863b37a9846fc9709425a59673898",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":430,
+                  "height":880}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/app/u1.jpg"}},
+{
+          "id":"9d18e75dcbc7499b888130d72b344573",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":108},
+            "size":{
+              "width":375,
+              "height":668}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93e57fff0b2146ecab0c04f6ebac6cfb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":108},
+                "size":{
+                  "width":375,
+                  "height":668}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/套餐二/u2.jpg"}},
+{
+          "id":"d668ed82f6c4448cac666c4c5a95b177",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":220,
+              "y":730},
+            "size":{
+              "width":182,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 2-预约",
+                      "target":{
+                        "targetType":"page",
+                        "url":"2-预约.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"b8a02ac9d8c24bb1af66df924c6f5867",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":130},
+            "size":{
+              "width":40,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 定制需求",
+                      "target":{
+                        "targetType":"page",
+                        "url":"定制需求.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d717343cf96c4ebabac69e8e8ba7564e":{
+      "scriptId":"u0"},
+    "f3c863b37a9846fc9709425a59673898":{
+      "scriptId":"u1"},
+    "9d18e75dcbc7499b888130d72b344573":{
+      "scriptId":"u2"},
+    "93e57fff0b2146ecab0c04f6ebac6cfb":{
+      "scriptId":"u3"},
+    "d668ed82f6c4448cac666c4c5a95b177":{
+      "scriptId":"u4"},
+    "b8a02ac9d8c24bb1af66df924c6f5867":{
+      "scriptId":"u5"}}});

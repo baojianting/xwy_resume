@@ -1,0 +1,204 @@
+﻿$axure.loadCurrentPage({
+  "url":"注册.html",
+  "generationDate":new Date(1479704710214.96),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"1ad6bee6f1184e48abfb3be8a0e61d74",
+    "type":"Axure:Page",
+    "name":"注册",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6edb30c4be9947b3b4975d4689dbc8c6",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"a086e7cb87c144058818b9a3550c238f"},
+{
+          "id":"1280bf1fb1d044deb3b7bfa59c7e2528",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":107},
+            "size":{
+              "width":373,
+              "height":666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e68d14027f164dfca7eb7d95efadd998",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":28,
+                  "y":107},
+                "size":{
+                  "width":373,
+                  "height":666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册/u3.png"}},
+{
+          "id":"1220f9cc58cb4e79804a54811dc4197d",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":130},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"79de0e549cbb4a759bb405f73a996448",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":40,
+              "y":350},
+            "size":{
+              "width":350,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+    "a086e7cb87c144058818b9a3550c238f":{
+      "packageId":"a086e7cb87c144058818b9a3550c238f",
+      "type":"Axure:Master",
+      "name":"新母版 1",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"623c214f22b644b990c3bc1c0a100f4d",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":430,
+                "height":880}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"7feffeea2daa4300973110505dfb8fb0",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":430,
+                    "height":880}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/app/u1.jpg"}}]}}},
+  "objectPaths":{
+    "6edb30c4be9947b3b4975d4689dbc8c6":{
+      "scriptId":"u0",
+      "623c214f22b644b990c3bc1c0a100f4d":{
+        "scriptId":"u1"},
+      "7feffeea2daa4300973110505dfb8fb0":{
+        "scriptId":"u2"}},
+    "1280bf1fb1d044deb3b7bfa59c7e2528":{
+      "scriptId":"u3"},
+    "e68d14027f164dfca7eb7d95efadd998":{
+      "scriptId":"u4"},
+    "1220f9cc58cb4e79804a54811dc4197d":{
+      "scriptId":"u5"},
+    "79de0e549cbb4a759bb405f73a996448":{
+      "scriptId":"u6"}}});

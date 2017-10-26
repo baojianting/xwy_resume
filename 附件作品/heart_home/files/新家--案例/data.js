@@ -1,0 +1,877 @@
+﻿$axure.loadCurrentPage({
+  "url":"新家--案例.html",
+  "generationDate":new Date(1479704709597.92),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"268213a2eb114c09aa0372aeaf51dce8",
+    "type":"Axure:Page",
+    "name":"新家--案例",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"09277e6f8cc5403baf51456ceb50470e",
+          "label":"手机框架",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":430,
+              "height":880}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"216fab0f84434cad9696d59d281a468c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":430,
+                  "height":880}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/app/u1.jpg"}},
+{
+          "id":"98cea18958c14f93ab4e0a98e00c543c",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":107},
+            "size":{
+              "width":375,
+              "height":667}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onDrag":{
+              "description":"OnDrag",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"Move Widget",
+                      "objectsToMoves":[]}]}]},
+            "onDragDrop":{
+              "description":"OnDragDrop",
+              "cases":[{
+                  "description":"用例 1<br> (If area of 不明 未接触 area of 不明)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"fcall",
+                    "functionName":"IsNotOver",
+                    "arguments":[{
+                        "exprType":"fcall",
+                        "functionName":"GetWidgetRectangles",
+                        "arguments":[{
+                            "exprType":"pathLiteral",
+                            "isThis":false,
+                            "isFocused":false,
+                            "isTarget":false,
+                            "value":["95992950ada645548b5716613088b7d3"]}]},
+{
+                        "exprType":"fcall",
+                        "functionName":"GetWidgetRectangles",
+                        "arguments":[{
+                            "exprType":"pathLiteral",
+                            "isThis":false,
+                            "isFocused":false,
+                            "isTarget":false,
+                            "value":["169c9876697c4fb6a92ea08976c2e737"]}]}]},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"Move Widget",
+                      "objectsToMoves":[]}]},
+{
+                  "description":"用例 2<br> (Else If area of This 未接触 area of 不明)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"fcall",
+                    "functionName":"IsNotOver",
+                    "arguments":[{
+                        "exprType":"fcall",
+                        "functionName":"GetWidgetRectangles",
+                        "arguments":[{
+                            "exprType":"pathLiteral",
+                            "isThis":true,
+                            "isFocused":false,
+                            "isTarget":false}]},
+{
+                        "exprType":"fcall",
+                        "functionName":"GetWidgetRectangles",
+                        "arguments":[{
+                            "exprType":"pathLiteral",
+                            "isThis":false,
+                            "isFocused":false,
+                            "isTarget":false,
+                            "value":["169c9876697c4fb6a92ea08976c2e737"]}]}]},
+                  "actions":[{
+                      "action":"moveWidget",
+                      "description":"Move Widget",
+                      "objectsToMoves":[]}]}]}},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"56ef01f70f39432b9cc616b2e975a1ee",
+              "label":"固定页面",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"8fdcdf9670ae4212bb2afb89ca2a5f68",
+                  "label":"",
+                  "parentDynamicPanel":"98cea18958c14f93ab4e0a98e00c543c",
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":10,
+                      "height":10}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onDrag":{
+                      "description":"OnDrag",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 长图 y 轴拖动",
+                              "objectsToMoves":[{
+                                  "objectPath":["373ee4e1cc2d45e49aded4d1c82ee08e"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]},
+                    "onDragDrop":{
+                      "description":"OnDragDrop",
+                      "cases":[{
+                          "description":"用例 1<br> (If area of 长图 未接触 area of 信息栏)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["373ee4e1cc2d45e49aded4d1c82ee08e"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["1df8ee92e22547369c583003b85d666e"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 长图 到 (0,67)",
+                              "objectsToMoves":[{
+                                  "objectPath":["373ee4e1cc2d45e49aded4d1c82ee08e"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"67",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]},
+{
+                          "description":"用例 2<br> (Else If area of 长图 未接触 area of 底部位置)",
+                          "isNewIfGroup":false,
+                          "condition":{
+                            "exprType":"fcall",
+                            "functionName":"IsNotOver",
+                            "arguments":[{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["373ee4e1cc2d45e49aded4d1c82ee08e"]}]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetRectangles",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["6773f9cfcb97443c9a350f23c031621f"]}]}]},
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 长图 到 (0,-1100)",
+                              "objectsToMoves":[{
+                                  "objectPath":["373ee4e1cc2d45e49aded4d1c82ee08e"],
+                                  "moveInfo":{
+                                    "moveType":"location",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-1100",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]}},
+                  "scrollbars":"none",
+                  "fitToContent":true,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"f950e7bb9e9843b0b0573ec20e197bf3",
+                      "label":"状态1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"373ee4e1cc2d45e49aded4d1c82ee08e",
+                          "label":"长图",
+                          "parentDynamicPanel":"8fdcdf9670ae4212bb2afb89ca2a5f68",
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":67},
+                            "size":{
+                              "width":372,
+                              "height":1770}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"5ed610f864f54d0aa20047732a7c62ca",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"8fdcdf9670ae4212bb2afb89ca2a5f68",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "location":{
+                                  "x":0,
+                                  "y":67},
+                                "size":{
+                                  "width":372,
+                                  "height":1770}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/新家--案例/长图_u4.jpg"}}]}]}]}]},
+{
+          "id":"f0b621def34a47e98ff5bd58bf8d1820",
+          "label":"搜索",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":37,
+              "y":183},
+            "size":{
+              "width":356,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 搜索页面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"搜索页面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"12a8a3c0a76541ba9161b2089696308f",
+          "label":"徐明家",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":217},
+            "size":{
+              "width":373,
+              "height":213}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 详情页--家具家电",
+                      "target":{
+                        "targetType":"page",
+                        "url":"详情页--家具家电.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"e677866f6e494dfe8af0b8fdecc9b6a0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":726},
+            "size":{
+              "width":375,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"026d6eabbd5c4e28b76db1db56d154a5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":726},
+                "size":{
+                  "width":375,
+                  "height":48}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/新家--案例/u8.png"}},
+{
+          "id":"75dc04c635754267aa7e0004f6343cbb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":726},
+            "size":{
+              "width":375,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9014dc214b2b481aa6b1a6989714a4f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":726},
+                "size":{
+                  "width":375,
+                  "height":48}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/新家--案例/u10.png"}},
+{
+          "id":"504ccb9988a048a9b4029dc0b838a6ec",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":326,
+              "y":724},
+            "size":{
+              "width":76,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"5b05dab45a1d4426944357197ca4eb04",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":120,
+              "y":726},
+            "size":{
+              "width":70,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 定制需求",
+                      "target":{
+                        "targetType":"page",
+                        "url":"定制需求.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"9b1b7328fb584881b6e2451051f448e2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":726},
+            "size":{
+              "width":73,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 首页-方案",
+                      "target":{
+                        "targetType":"page",
+                        "url":"首页-方案.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"1df8ee92e22547369c583003b85d666e",
+          "label":"信息栏",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":107},
+            "size":{
+              "width":375,
+              "height":69}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb3bb4fd61aa4d31977abef127e1ed9e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":107},
+                "size":{
+                  "width":375,
+                  "height":69}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/新家--案例/信息栏_u15.png"}},
+{
+          "id":"3be6dd0fc66348a1bd07e73e41466100",
+          "label":"工期进度",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":215,
+              "y":127},
+            "size":{
+              "width":187,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 新家--进程",
+                      "target":{
+                        "targetType":"page",
+                        "url":"新家--进程.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"aedd671e17b3427c84ab9efb94e89971",
+          "label":"收藏",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":325,
+              "y":401},
+            "size":{
+              "width":23,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 收藏",
+                      "objectsToFades":[{
+                          "objectPath":["0052bc7f8b194ae092afb3e9a15666bc"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"0052bc7f8b194ae092afb3e9a15666bc",
+          "label":"收藏",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":325,
+              "y":401},
+            "size":{
+              "width":23,
+              "height":23},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6e7c51aecbdd47b0a801e13bcd414033",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "location":{
+                  "x":325,
+                  "y":401},
+                "size":{
+                  "width":23,
+                  "height":23},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 收藏",
+                      "objectsToFades":[{
+                          "objectPath":["0052bc7f8b194ae092afb3e9a15666bc"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/新家--案例/收藏_u19.png"}},
+{
+          "id":"fa5bb354f2a44ac4b61754b34fdb94d4",
+          "label":"分享",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":358,
+              "y":401},
+            "size":{
+              "width":29,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 阴影,<br>分享",
+                      "objectsToFades":[{
+                          "objectPath":["95548a0b31974f2e817e6b6b175ed213"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["44b8dcaf00a848f88cb6ebd3f9a4c430"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"95548a0b31974f2e817e6b6b175ed213",
+          "label":"阴影",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":false,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0x7F666666},
+            "location":{
+              "x":27,
+              "y":107},
+            "size":{
+              "width":375,
+              "height":667},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"16e9b917edd44dcf8925d26f7a530b93",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x7F666666},
+                "location":{
+                  "x":27,
+                  "y":107},
+                "size":{
+                  "width":375,
+                  "height":667},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 分享,<br>阴影",
+                      "objectsToFades":[{
+                          "objectPath":["44b8dcaf00a848f88cb6ebd3f9a4c430"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["95548a0b31974f2e817e6b6b175ed213"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/新家--案例/阴影_u22.png"}},
+{
+          "id":"44b8dcaf00a848f88cb6ebd3f9a4c430",
+          "label":"分享",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":27,
+              "y":654},
+            "size":{
+              "width":374,
+              "height":120},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2ae9d42966954e1095fbdf00583f50ca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "location":{
+                  "x":27,
+                  "y":654},
+                "size":{
+                  "width":374,
+                  "height":120},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/详情页/第三方图标_u21.png"}},
+{
+          "id":"6773f9cfcb97443c9a350f23c031621f",
+          "label":"底部位置",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":27,
+              "y":774},
+            "size":{
+              "width":375,
+              "height":16}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "09277e6f8cc5403baf51456ceb50470e":{
+      "scriptId":"u0"},
+    "216fab0f84434cad9696d59d281a468c":{
+      "scriptId":"u1"},
+    "98cea18958c14f93ab4e0a98e00c543c":{
+      "scriptId":"u2"},
+    "8fdcdf9670ae4212bb2afb89ca2a5f68":{
+      "scriptId":"u3"},
+    "373ee4e1cc2d45e49aded4d1c82ee08e":{
+      "scriptId":"u4"},
+    "5ed610f864f54d0aa20047732a7c62ca":{
+      "scriptId":"u5"},
+    "f0b621def34a47e98ff5bd58bf8d1820":{
+      "scriptId":"u6"},
+    "12a8a3c0a76541ba9161b2089696308f":{
+      "scriptId":"u7"},
+    "e677866f6e494dfe8af0b8fdecc9b6a0":{
+      "scriptId":"u8"},
+    "026d6eabbd5c4e28b76db1db56d154a5":{
+      "scriptId":"u9"},
+    "75dc04c635754267aa7e0004f6343cbb":{
+      "scriptId":"u10"},
+    "9014dc214b2b481aa6b1a6989714a4f9":{
+      "scriptId":"u11"},
+    "504ccb9988a048a9b4029dc0b838a6ec":{
+      "scriptId":"u12"},
+    "5b05dab45a1d4426944357197ca4eb04":{
+      "scriptId":"u13"},
+    "9b1b7328fb584881b6e2451051f448e2":{
+      "scriptId":"u14"},
+    "1df8ee92e22547369c583003b85d666e":{
+      "scriptId":"u15"},
+    "cb3bb4fd61aa4d31977abef127e1ed9e":{
+      "scriptId":"u16"},
+    "3be6dd0fc66348a1bd07e73e41466100":{
+      "scriptId":"u17"},
+    "aedd671e17b3427c84ab9efb94e89971":{
+      "scriptId":"u18"},
+    "0052bc7f8b194ae092afb3e9a15666bc":{
+      "scriptId":"u19"},
+    "6e7c51aecbdd47b0a801e13bcd414033":{
+      "scriptId":"u20"},
+    "fa5bb354f2a44ac4b61754b34fdb94d4":{
+      "scriptId":"u21"},
+    "95548a0b31974f2e817e6b6b175ed213":{
+      "scriptId":"u22"},
+    "16e9b917edd44dcf8925d26f7a530b93":{
+      "scriptId":"u23"},
+    "44b8dcaf00a848f88cb6ebd3f9a4c430":{
+      "scriptId":"u24"},
+    "2ae9d42966954e1095fbdf00583f50ca":{
+      "scriptId":"u25"},
+    "6773f9cfcb97443c9a350f23c031621f":{
+      "scriptId":"u26"}}});

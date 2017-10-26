@@ -1,0 +1,209 @@
+﻿$axure.loadCurrentPage({
+  "url":"我的工期.html",
+  "generationDate":new Date(1479704710473.97),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e74507bf1d134f48b3a37930e92cf3e1",
+    "type":"Axure:Page",
+    "name":"我的工期",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"96ae28a8d2454d2a8dfc8cd3e1ebccd7",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+},
+          "adaptiveStyles":{
+},
+          "masterId":"a086e7cb87c144058818b9a3550c238f"},
+{
+          "id":"fe08b3ad380048e3b103a85f354144f8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":106},
+            "size":{
+              "width":374,
+              "height":667}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2aea4ff92e3c4b199604109e1bc5fab8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":28,
+                  "y":106},
+                "size":{
+                  "width":374,
+                  "height":667}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的工期/u3.jpg"}},
+{
+          "id":"b74aca6e0a2d46329f5bf5a236f39305",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":106},
+            "size":{
+              "width":374,
+              "height":667}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3af8e376cf834e299c7a4e35c085ddcd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":28,
+                  "y":106},
+                "size":{
+                  "width":374,
+                  "height":667}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的工期/u5.png"}},
+{
+          "id":"db3a8710368e49ae8ff419c3348629e4",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":32,
+              "y":126},
+            "size":{
+              "width":32,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+    "a086e7cb87c144058818b9a3550c238f":{
+      "packageId":"a086e7cb87c144058818b9a3550c238f",
+      "type":"Axure:Master",
+      "name":"新母版 1",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"623c214f22b644b990c3bc1c0a100f4d",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":430,
+                "height":880}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"7feffeea2daa4300973110505dfb8fb0",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":430,
+                    "height":880}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/app/u1.jpg"}}]}}},
+  "objectPaths":{
+    "96ae28a8d2454d2a8dfc8cd3e1ebccd7":{
+      "scriptId":"u0",
+      "623c214f22b644b990c3bc1c0a100f4d":{
+        "scriptId":"u1"},
+      "7feffeea2daa4300973110505dfb8fb0":{
+        "scriptId":"u2"}},
+    "fe08b3ad380048e3b103a85f354144f8":{
+      "scriptId":"u3"},
+    "2aea4ff92e3c4b199604109e1bc5fab8":{
+      "scriptId":"u4"},
+    "b74aca6e0a2d46329f5bf5a236f39305":{
+      "scriptId":"u5"},
+    "3af8e376cf834e299c7a4e35c085ddcd":{
+      "scriptId":"u6"},
+    "db3a8710368e49ae8ff419c3348629e4":{
+      "scriptId":"u7"}}});
