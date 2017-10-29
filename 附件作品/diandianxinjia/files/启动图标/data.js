@@ -1,0 +1,86 @@
+﻿$axure.loadCurrentPage({
+  "url":"启动图标.html",
+  "generationDate":new Date(1488665386778.71),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4cfa67df012744c6b592606ec0b57e61",
+    "type":"Axure:Page",
+    "name":"启动图标",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c9f1e090bdf24c44af4f1c318a4faafd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":750,
+              "y":520},
+            "size":{
+              "width":100,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"33a5d05b12ca4cff9d2712c98386b4b5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":750,
+                  "y":520},
+                "size":{
+                  "width":100,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 启动界面",
+                      "target":{
+                        "targetType":"page",
+                        "url":"启动界面.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/启动图标/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c9f1e090bdf24c44af4f1c318a4faafd":{
+      "scriptId":"u0"},
+    "33a5d05b12ca4cff9d2712c98386b4b5":{
+      "scriptId":"u1"}}});

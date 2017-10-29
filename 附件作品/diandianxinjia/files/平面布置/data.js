@@ -1,0 +1,386 @@
+﻿$axure.loadCurrentPage({
+  "url":"平面布置.html",
+  "generationDate":new Date(1488665387546.07),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"40e27c8c446a4d6b9049ce4ee05b96d8",
+    "type":"Axure:Page",
+    "name":"平面布置",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"2645e33e5d144e488e72d3f4f2b7d7ff",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1600,
+              "height":900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a94171ef49e4454a9a9478c40933841b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1600,
+                  "height":900}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/平面布置/u0.jpg"}},
+{
+          "id":"14c91229f6234707bedbfb7f80950667",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1517,
+              "y":52},
+            "size":{
+              "width":70,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 平面布局-保存",
+                      "target":{
+                        "targetType":"page",
+                        "url":"平面布局-保存.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"6639cbf372d24706a89900f595bf9863",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":100},
+            "size":{
+              "width":140,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 蓝图原型-创建户型",
+                      "target":{
+                        "targetType":"page",
+                        "url":"蓝图原型-创建户型.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"658c2d2e61534be3a2a8fd8a0e84c78d",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":233,
+              "y":20},
+            "size":{
+              "width":59,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 设计平台",
+                      "target":{
+                        "targetType":"page",
+                        "url":"设计平台.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"ebad09ad7a4c4825817325d7de83f6c8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":102.5},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1541ae847b0b4c02b6e760d3c0ac7761",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":30,
+                  "y":102.5},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"02bb192c2e5b4219bc513f0b26412d04",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":240,
+              "y":18},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a1f091b60b97473e877ce1a9f51c4292",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":240,
+                  "y":18},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 设计平台",
+                      "target":{
+                        "targetType":"page",
+                        "url":"设计平台.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"5a6fb80323334b26b7412719cf045d03",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":315,
+              "y":19},
+            "size":{
+              "width":47,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的设计",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的设计.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"309ce7a29dc2494fa407f781b9246564",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":315,
+              "y":19},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"acca39a42a974035a643efcb5e00b2d6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":315,
+                  "y":19},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的设计",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的设计.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"8c32aee686584637b0512f4ceb64bda3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1528,
+              "y":59},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f36cddf5c10d434990993e17621ef640",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1528,
+                  "y":59},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 平面布局-保存",
+                      "target":{
+                        "targetType":"page",
+                        "url":"平面布局-保存.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "2645e33e5d144e488e72d3f4f2b7d7ff":{
+      "scriptId":"u0"},
+    "a94171ef49e4454a9a9478c40933841b":{
+      "scriptId":"u1"},
+    "14c91229f6234707bedbfb7f80950667":{
+      "scriptId":"u2"},
+    "6639cbf372d24706a89900f595bf9863":{
+      "scriptId":"u3"},
+    "658c2d2e61534be3a2a8fd8a0e84c78d":{
+      "scriptId":"u4"},
+    "ebad09ad7a4c4825817325d7de83f6c8":{
+      "scriptId":"u5"},
+    "1541ae847b0b4c02b6e760d3c0ac7761":{
+      "scriptId":"u6"},
+    "02bb192c2e5b4219bc513f0b26412d04":{
+      "scriptId":"u7"},
+    "a1f091b60b97473e877ce1a9f51c4292":{
+      "scriptId":"u8"},
+    "5a6fb80323334b26b7412719cf045d03":{
+      "scriptId":"u9"},
+    "309ce7a29dc2494fa407f781b9246564":{
+      "scriptId":"u10"},
+    "acca39a42a974035a643efcb5e00b2d6":{
+      "scriptId":"u11"},
+    "8c32aee686584637b0512f4ceb64bda3":{
+      "scriptId":"u12"},
+    "f36cddf5c10d434990993e17621ef640":{
+      "scriptId":"u13"}}});

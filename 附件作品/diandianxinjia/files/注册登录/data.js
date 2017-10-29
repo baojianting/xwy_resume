@@ -1,0 +1,189 @@
+﻿$axure.loadCurrentPage({
+  "url":"注册登录.html",
+  "generationDate":new Date(1488665386910.58),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d1fb6a7773434358a23c86f7eac3ea05",
+    "type":"Axure:Page",
+    "name":"注册登录",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"09b812005ddf47e8b57f32837df900fd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1600,
+              "height":900},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF330033}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1553204299cb40a3a13370ca3035cc5c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1600,
+                  "height":900},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF330033}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册登录/u0.jpg"}},
+{
+          "id":"eac71ef605864868b7085c86738326f2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":495},
+            "size":{
+              "width":360,
+              "height":44}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 设计平台",
+                      "target":{
+                        "targetType":"page",
+                        "url":"设计平台.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"614ef2c436fa44af91c8658df82b77bf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":749,
+              "y":501},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3ab6b8fe83a24078bf89a4a2242b8076",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":749,
+                  "y":501},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"92b528d078184013829eb6f49e918424",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF30343D},
+            "location":{
+              "x":760,
+              "y":2},
+            "size":{
+              "width":90,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"63ae31a67f9346afaa9efe3d58ffca23",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF30343D},
+                "location":{
+                  "x":760,
+                  "y":2},
+                "size":{
+                  "width":90,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册登录/u5.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "09b812005ddf47e8b57f32837df900fd":{
+      "scriptId":"u0"},
+    "1553204299cb40a3a13370ca3035cc5c":{
+      "scriptId":"u1"},
+    "eac71ef605864868b7085c86738326f2":{
+      "scriptId":"u2"},
+    "614ef2c436fa44af91c8658df82b77bf":{
+      "scriptId":"u3"},
+    "3ab6b8fe83a24078bf89a4a2242b8076":{
+      "scriptId":"u4"},
+    "92b528d078184013829eb6f49e918424":{
+      "scriptId":"u5"},
+    "63ae31a67f9346afaa9efe3d58ffca23":{
+      "scriptId":"u6"}}});

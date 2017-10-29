@@ -1,0 +1,425 @@
+﻿$axure.loadCurrentPage({
+  "url":"设计平台.html",
+  "generationDate":new Date(1488665386966.77),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"bd049d6bc59245d79ab242b641efaed4",
+    "type":"Axure:Page",
+    "name":"设计平台",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f5083f1932d748bbadd36308faa112cd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1600,
+              "height":900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"37bdd3120de14ee8949da2b649d99a8e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1600,
+                  "height":900}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/设计平台/u0.jpg"}},
+{
+          "id":"64a090a0fb404381bb7cd930ada284a4",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":20,
+              "y":136},
+            "size":{
+              "width":230,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 教程页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"教程页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"56cd60210c8e405c8217222a555d4c81",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":433},
+            "size":{
+              "width":150,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的设计",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的设计.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"e7b4a1fb41234a36845b6364a3f6282b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1554,
+              "y":23},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"89528496380043338f7871c8af5a6aa8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1554,
+                  "y":23},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 注册登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"注册登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"0f7ed89930604e8fb93404580b1f0937",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":70,
+              "y":440},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"781475d0fc8c488880e2b066cf39f74c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":70,
+                  "y":440},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"f17db1b641da46aa87ed0ee7a2f4df1c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":70,
+              "y":150},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2d45bdfd2ee4ae1a500002c831231e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":70,
+                  "y":150},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"b73c38b0d6f74403a776fb102b59606f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":662},
+            "size":{
+              "width":150,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 我的设计",
+                      "target":{
+                        "targetType":"page",
+                        "url":"我的设计.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"b510f26ef2714abf909eb9082bfc9845",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":70,
+              "y":669},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d16543e5d1474a648fc768b0a336b4c1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":70,
+                  "y":669},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"7fb8834d626248b38ddcb3d24836264e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1545,
+              "y":23},
+            "size":{
+              "width":50,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 注册登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"注册登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"087c10d964d9486ea168009a903bd26e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":595,
+              "y":57},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"360256b088b44de68c0cf3311c5633cf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":595,
+                  "y":57},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"b0cfdf15c2a741289f4eeab91c9f8284",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":590,
+              "y":50},
+            "size":{
+              "width":80,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 设计平台-户型库",
+                      "target":{
+                        "targetType":"page",
+                        "url":"设计平台-户型库.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f5083f1932d748bbadd36308faa112cd":{
+      "scriptId":"u0"},
+    "37bdd3120de14ee8949da2b649d99a8e":{
+      "scriptId":"u1"},
+    "64a090a0fb404381bb7cd930ada284a4":{
+      "scriptId":"u2"},
+    "56cd60210c8e405c8217222a555d4c81":{
+      "scriptId":"u3"},
+    "e7b4a1fb41234a36845b6364a3f6282b":{
+      "scriptId":"u4"},
+    "89528496380043338f7871c8af5a6aa8":{
+      "scriptId":"u5"},
+    "0f7ed89930604e8fb93404580b1f0937":{
+      "scriptId":"u6"},
+    "781475d0fc8c488880e2b066cf39f74c":{
+      "scriptId":"u7"},
+    "f17db1b641da46aa87ed0ee7a2f4df1c":{
+      "scriptId":"u8"},
+    "c2d45bdfd2ee4ae1a500002c831231e5":{
+      "scriptId":"u9"},
+    "b73c38b0d6f74403a776fb102b59606f":{
+      "scriptId":"u10"},
+    "b510f26ef2714abf909eb9082bfc9845":{
+      "scriptId":"u11"},
+    "d16543e5d1474a648fc768b0a336b4c1":{
+      "scriptId":"u12"},
+    "7fb8834d626248b38ddcb3d24836264e":{
+      "scriptId":"u13"},
+    "087c10d964d9486ea168009a903bd26e":{
+      "scriptId":"u14"},
+    "360256b088b44de68c0cf3311c5633cf":{
+      "scriptId":"u15"},
+    "b0cfdf15c2a741289f4eeab91c9f8284":{
+      "scriptId":"u16"}}});

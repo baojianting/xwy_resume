@@ -1,0 +1,142 @@
+﻿$axure.loadCurrentPage({
+  "url":"创建户型-保存.html",
+  "generationDate":new Date(1488665387491.37),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3ee21539ffd24c5b8183893806f111a1",
+    "type":"Axure:Page",
+    "name":"创建户型-保存",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"801c14cb58ee4e03ac3479a4e691b792",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1600,
+              "height":900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"36b754be1ed2482a8f1b3371a99c5e3e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1600,
+                  "height":900}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/创建户型-保存/u0.png"}},
+{
+          "id":"de5fb9828f0e4985bd9640e4fc393c51",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":680,
+              "y":510},
+            "size":{
+              "width":20,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5a51b69ac0854317990eb4c9ca5540fd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":680,
+                  "y":510},
+                "size":{
+                  "width":20,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/启动界面/u4.gif"}},
+{
+          "id":"0710f9a2a1704796a377ccfbf9b8443f",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":650,
+              "y":495},
+            "size":{
+              "width":140,
+              "height":65}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 套餐方案",
+                      "target":{
+                        "targetType":"page",
+                        "url":"套餐方案.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "801c14cb58ee4e03ac3479a4e691b792":{
+      "scriptId":"u0"},
+    "36b754be1ed2482a8f1b3371a99c5e3e":{
+      "scriptId":"u1"},
+    "de5fb9828f0e4985bd9640e4fc393c51":{
+      "scriptId":"u2"},
+    "5a51b69ac0854317990eb4c9ca5540fd":{
+      "scriptId":"u3"},
+    "0710f9a2a1704796a377ccfbf9b8443f":{
+      "scriptId":"u4"}}});
